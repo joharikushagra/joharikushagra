@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next.Js
 - 👯 I’m looking to collaborate on Open Source Projects
 
-- 💬 Ask me about ...
+- 💬 Ask me about OpenSource
 - 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/kushagra-johari-707183191/">LinkedIn</a>
 
