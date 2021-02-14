@@ -1,6 +1,6 @@
 # Hi there I'm Kushagra👋
 
-**A Web Developer with a knack of competitive Programming, open to explore new things✨**
+**A Web Developer and a Competitive Programming, open to explore new things✨**
 
 
 
