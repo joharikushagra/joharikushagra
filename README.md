@@ -12,6 +12,8 @@
 #### 👋 My Portfolio: <a href="https://mrweber.netlify.app/">#MrWeber</a>
 #### 📫 How to reach me: <a href="https://www.linkedin.com/in/kushagra-johari-707183191/">LinkedIn</a>
 #### ⚡ My Chill Fact: Let's have a Match of FIFA xD
+
+#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joharikushagra&layout=compact)](https://github.com/joharikushagra/joharikushagra)
 <!--
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
