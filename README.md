@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there I'm Kushagra👋
 
-<!--
-**joharikushagra/joharikushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Web Developer with a knack of competitive Programming, open to explore new things✨**
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on MERN Stack and Firebase
+- 🌱 I’m currently learning Next.Js
+- 👯 I’m looking to collaborate on Open Source Projects
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+<a href="https://www.linkedin.com/in/kushagra-johari-707183191/">LinkedIn</a>
+
+- ⚡ My Chill Fact: Let's have a Match of FIFA xD
+<!--
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...->
+<!--**joharikushagra/joharikushagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.->
