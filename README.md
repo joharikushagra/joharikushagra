@@ -6,11 +6,11 @@
 #### 🌱 I’m currently learning Next.Js
 #### 👯 I’m looking to collaborate on Open Source Projects
 #### 💬 Ask me about OpenSource, JS
-#### 👋 My Portfolio: <a href="https://mrweber.netlify.app/">#MrWeber</a>
 #### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing)
+#### 👋 My Portfolio: <a href="https://mrweber.netlify.app/">#MrWeber</a>
 #### ⚡ My Chill Fact: Let's have a Match of FIFA xD
 
-**Languages and Tools:**  
+### Languages and Tools 📦
 <div style="display:inline-block">
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -29,7 +29,6 @@
 <img alt="Adobe XD" src="https://img.shields.io/badge/adobexd-%23FF26BE.svg?style=for-the-badge&logo=adobexd&logoColor=white"/>
 <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-
 </div>
 
 
