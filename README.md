@@ -7,10 +7,19 @@
 #### 👯 I’m looking to collaborate on Open Source Projects
 #### 💬 Ask me about OpenSource, JS
 #### 👋 My Portfolio: <a href="https://mrweber.netlify.app/">#MrWeber</a>
-
+#### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing)
 #### ⚡ My Chill Fact: Let's have a Match of FIFA xD
 
-#### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joharikushagra&layout=compact)](https://github.com/joharikushagra/joharikushagra)
+**Languages and Tools:**  
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/photshop/photoshop.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
 <h1 align="center">Let's Connect</h3>
 <h2 align="center">
 <a href="https://www.linkedin.com/in/kushagra-johari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Kushagra_Johari" height="30" width="40" /></a>
