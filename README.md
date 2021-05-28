@@ -1,6 +1,6 @@
 # Hi there I'm Kushagra👋
 
-**A Web Developer and a Competitive Programmer, open to explore new things✨**
+**A passionate Web Developer and a Competitive Programmer, open to explore new things✨**
 
 #### 🔭 I’m currently working on MERN Stack and Firebase
 #### 🌱 I’m currently learning Next.Js
@@ -34,8 +34,9 @@
 
 
 #### 📈My GitHub Stats
-<div align="left">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joharikushagra&show_icons=true&theme=gotham" alt="joharikushagra" />
+<div style="display:flex;justify-content:space-evenly">
+ <img src="https://github-readme-stats.vercel.app/api?username=joharikushagra&show_icons=true&theme=gotham" alt="joharikushagra" />&nbsp
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharikushagra&layout=compact&theme=gotham" alt="languages" height="180"/>
  </div>
 
 <h1 align="center">Let's Connect</h3>
