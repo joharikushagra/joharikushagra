@@ -6,8 +6,8 @@
 <!-- #### 🌱 I’m currently learning Next.Js -->
 #### 👯 I’m looking to collaborate on Open Source Projects
 #### 💬 Ask me about OpenSource, JS
-#### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing)
-#### 👋 My Portfolio: <a href="https://mrweber.netlify.app/">#MrWeber</a>
+<!-- #### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing) -->
+#### 👋 My Portfolio: <a href="https://kushaagra.works">kushaagra.works</a>
 #### ⚡ My Chill Fact: Let's have a Match of FIFA xD
 
 ### Languages and Tools 📦
