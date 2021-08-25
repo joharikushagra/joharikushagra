@@ -3,7 +3,7 @@
 **A passionate Web Developer and a Competitive Programmer, open to explore new things✨**
 
 #### 🔭 I’m currently working on MERN Stack and Firebase
-#### 🌱 I’m currently learning Next.Js
+<!-- #### 🌱 I’m currently learning Next.Js -->
 #### 👯 I’m looking to collaborate on Open Source Projects
 #### 💬 Ask me about OpenSource, JS
 #### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing)
