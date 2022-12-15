@@ -6,7 +6,7 @@
 <!-- #### 🌱 I’m currently learning Next.Js -->
 #### 👯 I’m looking to collaborate on Open Source Projects
 #### 💬 Ask me about OpenSource, JS
-<!-- #### 📝 [Resume](https://drive.google.com/file/d/1k7XltJQJr5iHFAONiKRqjfcyLKIsdVUc/view?usp=sharing) -->
+#### 📝 Find my resume: [Click Here](https://bit.ly/3i794S3)
 #### 👋 My Portfolio: <a href="https://kushaagra.vercel.app">kushaagra.works</a>
 #### ⚡ My Chill Fact: Let's have a Match of FIFA xD
 
