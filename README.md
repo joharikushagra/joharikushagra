@@ -35,8 +35,8 @@
 
 ### My GitHub Stats 📈
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=joharikushagra&show_icons=true&theme=gotham" alt="joharikushagra" />&nbsp
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joharikushagra&layout=compact&theme=gotham" alt="languages" height="165"/>
+ <img src="https://github-readme-stats-theta-ten-56.vercel.app/api?username=joharikushagra&show_icons=true&theme=tokyonight" alt="joharikushagra" />&nbsp
+ <img src="https://github-readme-stats-theta-ten-56.vercel.app/api/top-langs/?username=joharikushagra&layout=compact&theme=tokyonight" alt="languages" height="165"/>
  </div>
 
 <h1 align="center">Let's Connect</h3>
